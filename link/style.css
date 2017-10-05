@@ -1,0 +1,33 @@
+h1 {
+color:red;
+}
+
+h2 {
+	color:rgb(74,255,244);
+}
+ 
+body {
+	max-width:700px;
+}
+
+a {
+	color:rgb(255,37,159);
+	text-decoration: none;
+}
+
+ol{
+	background color:rgb(255,37,159);
+	opacity: 0.5;
+	width:300px;
+	padding:20px;
+	margin-bottom: 150px
+}
+
+.orange {
+	color:rgb(250,180,20);
+}
+
+.special {
+	color:purple;
+}
+
