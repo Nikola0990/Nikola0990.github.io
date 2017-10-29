@@ -1,0 +1,139 @@
+
+  .box1 {
+  width: 1050px;
+  height: 500px;
+  top: 0px;
+  left: 0px;
+  background-color: rgb(255,255,255);
+
+}
+.header{
+position: absolute;
+top:-17px;
+left:-17px;
+font-family: 'Hind', sans-serif;
+font-weight: bold;
+width: 400px;
+font-size: 150px;
+line-height:100px;
+
+}
+
+.right{
+  position: absolute;
+  top: 500px;
+  left: 500px;
+  width: 250px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 1px;
+  text-align: left;
+  height: 50%;
+  overflow: scroll;
+
+
+}
+
+.leftblock {
+  position:absolute;
+top:500px;
+left:300px;
+width:170px;
+font-family: 'Hind', sans-serif; 
+font-size: 19px;
+font-weight: bold;
+line-height:5px;
+letter-spacing:1px;
+text-align: right;
+line-height:19px;
+color:rgb(255,102,102);
+
+}
+
+.decor{
+  position:absolute;
+  top:1000px;
+  left:0px;
+  width:500px;
+  font-family: 'Hind', sans-serif; 
+font-size: 40px;
+font-weight: bold;
+letter-spacing: 1px;
+
+}
+
+.right2{
+  position: absolute;
+  top: 1200px;
+  left: 500px;
+  width: 250px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 1px;
+  text-align: left;
+  height: 75%;
+  overflow: scroll;
+}
+
+.problem{
+  position:absolute;
+  top :1348px;
+  left:230px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 100px;
+  font-weight: bold;
+  transform: rotate(-90deg);
+  color:rgb(255,102,102);
+}
+
+.image{
+  position:absolute;
+  top :1700px;
+  left:-100px;
+  width: 1500px;
+  height: 100%;
+  transform: scale(0.5, 0.5);
+  overflow: scroll;
+}
+
+.leftx{
+  position:absolute;
+  top :1690px;
+  left:-50px;
+  font-family: 'Hind', sans-serif; 
+font-size: 1000px;
+font-weight: bold;
+
+}
+
+.rightx{
+  position:absolute;
+  top :1400px;
+  left:900px;
+  font-family: 'Hind', sans-serif; 
+font-size: 1000px;
+font-weight: bold;
+}
+
+.right2x{
+  position:absolute;
+  top :900px;
+  left:910px;
+  font-family: 'Hind', sans-serif; 
+font-size: 1000px;
+font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
