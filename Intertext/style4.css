@@ -102,7 +102,7 @@ letter-spacing: 1px;
 
 .leftx{
   position:absolute;
-  top :1690px;
+  top :1750px;
   left:-50px;
   font-family: 'Hind', sans-serif; 
 font-size: 1000px;
@@ -112,8 +112,8 @@ font-weight: bold;
 
 .rightx{
   position:absolute;
-  top :1400px;
-  left:900px;
+  top :1750px;
+  left:800px;
   font-family: 'Hind', sans-serif; 
 font-size: 1000px;
 font-weight: bold;
@@ -121,17 +121,48 @@ font-weight: bold;
 
 .right2x{
   position:absolute;
-  top :900px;
-  left:910px;
+  top :1750px;
+  left:375px;
   font-family: 'Hind', sans-serif; 
 font-size: 1000px;
 font-weight: bold;
 }
 
+.qoute{
+  position: absolute;
+  top: 500px;
+  left: 800px;
+  width: 250px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 19px;
+  font-weight:bold;
+  line-height: 19px;
+  letter-spacing: 1px;
+  text-align: left;
+  height: 50%;
+  overflow: scroll;
+  color:rgb(255,102,102);
+  opacity: 0.5;
+}
 
 
-
-
+.tedtalk{
+  
+  position: absolute;
+  top: 1200px;
+  left: 800px;
+  width: 250px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 19px;
+  font-weight:bold;
+  line-height: 19px;
+  letter-spacing: 1px;
+  text-align: left;
+  height: 50%;
+  overflow: scroll;
+  color:rgb(255,102,102);
+  opacity: 0.5;
+}
 
 
 
