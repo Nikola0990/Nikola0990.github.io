@@ -84,8 +84,8 @@ letter-spacing: 1px;
 
 .image{
   position:absolute;
-  top :1700px;
-  left:-100px;
+  top :1650px;
+  left:-115px;
   width: 1500px;
   height: 100%;
   transform: scale(0.5, 0.5);
@@ -94,7 +94,7 @@ letter-spacing: 1px;
 
 .leftx{
   position:absolute;
-  top :1870px;
+  top :2120px;
   left:-50px;
   font-family: 'Hind', sans-serif; 
 font-size: 1000px;
@@ -104,7 +104,7 @@ font-weight: bold;
 
 .rightx{
   position:absolute;
-  top :1870px;
+  top :2120px;
   left:800px;
   font-family: 'Hind', sans-serif; 
 font-size: 1000px;
@@ -113,7 +113,7 @@ font-weight: bold;
 
 .right2x{
   position:absolute;
-  top :1870px;
+  top :2120px;
   left:375px;
   font-family: 'Hind', sans-serif; 
 font-size: 1000px;
@@ -267,7 +267,7 @@ position: absolute;
   height: 50%;
   overflow: scroll;
   color:rgb(255,102,102);
-  opacity: 0.5;
+  opacity: 0.9;
 
 }
 
@@ -285,7 +285,7 @@ position: absolute;
   height: 70%;
   overflow: scroll;
   color:rgb(255,102,102);
-  opacity: 0.5;
+  opacity: 0.9;
 
 }
 
@@ -303,7 +303,7 @@ position: absolute;
   height: 60%;
   overflow: scroll;
   color:rgb(255,102,102);
-  opacity: 0.5;
+  opacity: 0.9;
 }
 
 .backgroundpink {
@@ -317,7 +317,7 @@ position: absolute;
 }
 .consent{
   position:absolute;
-  top:3200px;
+  top:3500px;
 left:400px;
 font-family: 'Hind', sans-serif;
 font-weight: 400;
@@ -330,7 +330,7 @@ text-align: center;
 
 .click1 {
   position:absolute;
-  top:2500px;
+  top:2750px;
   left:312px;
   width: 0;
   height: 0;
@@ -340,7 +340,7 @@ text-align: center;
 }
   .click2{
 position:absolute;
-  top:2670px;
+  top:2920px;
   left:312px;
 width: 0;
   height: 0;
@@ -351,7 +351,7 @@ width: 0;
 
   .click3{
 position:absolute;
-  top:2500px;
+  top:2750px;
   left:735px;
   width: 0;
   height: 0;
@@ -362,7 +362,7 @@ position:absolute;
 
   .click4{
     position:absolute;
-  top:2670px;
+  top:2920px;
   left:735px;
 width: 0;
   height: 0;
@@ -373,7 +373,7 @@ width: 0;
 
 .click5 {
   position:absolute;
-  top:2802px;
+  top:3052px;
   left:538px;
   width: 0;
   height: 0;
@@ -384,7 +384,7 @@ width: 0;
 
 .click6 {
   position:absolute;
-  top:2972px;
+  top:3222px;
   left:538px;
   width: 0;
   height: 0;
@@ -393,11 +393,45 @@ width: 0;
   border-top: 170px solid rgb(255,102,102);
   }
 
+.click7{
+  position:absolute;
+  top:2452px;
+  left:549px;
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 170px solid rgb(255,102,102);
+}
+
+.click8{
+  position:absolute;
+  top:2622px;
+  left:549px;
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-top: 170px solid rgb(255,102,102);
+}
+
+.reverse {
+  position:absolute;
+  top:2580px;
+  left:550px;
+  font-family: 'Hind', sans-serif;
+font-weight: bold;
+width: 200px;
+font-size: 30px;
+color:rgb(255,255,255);
+text-align: center;
+}
+
 
 
 .effects{
   position:absolute;
-  top:2650px;
+  top:2900px;
   left:369px;
   font-family: 'Hind', sans-serif;
 font-weight: bold;
@@ -414,7 +448,7 @@ color:rgb(255,255,255);
 
 .promoting{
   position:absolute;
-  top:2625px;
+  top:2875px;
   left:772px;
   font-family: 'Hind', sans-serif;
 font-weight: bold;
@@ -426,7 +460,7 @@ color:rgb(255,255,255);
 
 .needhelp{
   position:absolute;
-  top:2950px;
+  top:3200px;
   left:565px;
   font-family: 'Hind', sans-serif;
 font-weight: bold;
@@ -503,5 +537,63 @@ font-size: 100px;
 color:rgb(255,255,255);
 
 }
+
+
+.sexobjecttest{
+  position:absolute;
+  top:2220px;
+  left:533px;
+  font-family: 'Hind', sans-serif;
+font-weight: bold;
+width: 900px;
+font-size: 30px;
+color:rgb(255,102,102);
+
+}
+
+.arrow{
+   position:absolute;
+  top:2640px;
+  left:188px;
+  font-family: 'Hind', sans-serif;
+font-weight: 400;
+width: 900px;
+font-size: 90px;
+color:rgb(224,224,224);
+transform: rotate(90deg);
+}
+
+
+.questions{
+  position:absolute;
+  top:2320px;
+  left:500px;
+  font-family: 'Hind', sans-serif;
+font-weight: 400;
+width: 300px;
+font-size: 15px;
+line-height: 19px;
+color:rgb(200,200,200);
+height: 10%;
+  overflow: scroll;
+}
+
+
+
+.space {
+  position:absolute;
+  top:2600px;
+  left:500px;
+  font-family: 'Hind', sans-serif;
+font-weight: 400;
+width: 300px;
+font-size: 15px;
+line-height: 19px;
+color:rgb(255,255,255);
+}
+
+
+
+
 
 
