@@ -594,6 +594,29 @@ color:rgb(255,255,255);
 
 
 
+.slidearrow{
+    position:absolute;
+  top:2000px;
+  left:180px;
+  font-family: 'Hind', sans-serif;
+font-weight: 400;
+width: 300px;
+font-size: 45px;
+color:rgb(224,224,224);
+}
+
+.slidearrow2{
+      position:absolute;
+  top:2000px;
+  left:1090px;
+  font-family: 'Hind', sans-serif;
+font-weight: 400;
+width: 300px;
+font-size: 45px;
+color:rgb(224,224,224);
+}
+
+
 
 
 
