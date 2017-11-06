@@ -1,12 +1,4 @@
 
-  .box1 {
-  width: 1050px;
-  height: 500px;
-  top: 0px;
-  left: 0px;
-  background-color: rgb(255,255,255);
-
-}
 .header{
 position: absolute;
 top:-17px;
@@ -49,7 +41,7 @@ letter-spacing:1px;
 text-align: right;
 line-height:19px;
 color:rgb(255,102,102);
-
+opacity: 0.5;
 }
 
 .decor{
@@ -75,7 +67,7 @@ letter-spacing: 1px;
   line-height: 19px;
   letter-spacing: 1px;
   text-align: left;
-  height: 75%;
+  height: 70%;
   overflow: scroll;
 }
 
@@ -102,7 +94,7 @@ letter-spacing: 1px;
 
 .leftx{
   position:absolute;
-  top :1750px;
+  top :1870px;
   left:-50px;
   font-family: 'Hind', sans-serif; 
 font-size: 1000px;
@@ -112,7 +104,7 @@ font-weight: bold;
 
 .rightx{
   position:absolute;
-  top :1750px;
+  top :1870px;
   left:800px;
   font-family: 'Hind', sans-serif; 
 font-size: 1000px;
@@ -121,7 +113,7 @@ font-weight: bold;
 
 .right2x{
   position:absolute;
-  top :1750px;
+  top :1870px;
   left:375px;
   font-family: 'Hind', sans-serif; 
 font-size: 1000px;
@@ -136,18 +128,18 @@ font-weight: bold;
   font-family: 'Hind', sans-serif; 
   font-size: 19px;
   font-weight:bold;
-  line-height: 19px;
+  line-height: 30px;
   letter-spacing: 1px;
   text-align: left;
   height: 50%;
   overflow: scroll;
   color:rgb(255,102,102);
-  opacity: 0.5;
+  opacity: 0.8;
 }
 
 
 .tedtalk{
-  
+
   position: absolute;
   top: 1200px;
   left: 800px;
@@ -155,16 +147,361 @@ font-weight: bold;
   font-family: 'Hind', sans-serif; 
   font-size: 19px;
   font-weight:bold;
+  line-height: 30px;
+  letter-spacing: 1px;
+  text-align: left;
+  height: 50%;
+  overflow: scroll;
+  color:rgb(255,102,102);
+  opacity: 0.8;
+}
+
+.header2{
+  position: absolute;
+top:-2px;
+left:-17px;
+font-family: 'Hind', sans-serif;
+font-weight: bold;
+width: 400px;
+font-size: 140px;
+line-height:90px;
+}
+
+.psychology{
+  position: absolute;
+  top: 550px;
+  left: 550px;
+  width: 240px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 14px;
+  font-weight: 400;
   line-height: 19px;
+  letter-spacing: 1px;
+  text-align: left;
+  height: 65%;
+  overflow: scroll;
+}
+
+.title1 {
+  position:absolute;
+  top:800px;
+left:380px;
+width:170px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 100px;
+  font-weight: bold;
+  line-height:70px;
+  transform: rotate(-90deg);
+  color:rgb(255,102,102);
+}
+
+.disorders{
+  position: absolute;
+  top: 1190px;
+  left: 550px;
+  width: 240px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 1px;
+  text-align: left;
+  height: 65%;
+  overflow: scroll;
+}
+
+
+.title2 {
+  position:absolute;
+  top:1550px;
+left:380px;
+width:170px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 100px;
+  font-weight: bold;
+  line-height:70px;
+  transform: rotate(-90deg);
+  color:rgb(255,102,102);
+}
+
+.title3 {
+  position:absolute;
+  top:2400px;
+left:412px;
+width:170px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 100px;
+  font-weight: bold;
+  line-height:70px;
+  transform: rotate(-90deg);
+  color:rgb(255,102,102);
+}
+
+.experiences {
+position: absolute;
+  top: 1905px;
+  left: 550px;
+  width: 245px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 1px;
+  text-align: left;
+  height: 80%;
+  overflow: scroll;
+
+}
+
+.psychologyright {
+  position: absolute;
+  top: 550px;
+  left: 812px;
+  width: 250px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 19px;
+  font-weight:bold;
+  line-height: 30px;
   letter-spacing: 1px;
   text-align: left;
   height: 50%;
   overflow: scroll;
   color:rgb(255,102,102);
   opacity: 0.5;
+
+}
+
+.eatingdisorderright{
+  position: absolute;
+  top: 1187px;
+  left: 812px;
+  width: 250px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 19px;
+  font-weight:bold;
+  line-height: 30px;
+  letter-spacing: 1px;
+  text-align: left;
+  height: 70%;
+  overflow: scroll;
+  color:rgb(255,102,102);
+  opacity: 0.5;
+
+}
+
+.experienceright{
+    position: absolute;
+  top: 1900px;
+  left: 812px;
+  width: 250px;
+  font-family: 'Hind', sans-serif; 
+  font-size: 19px;
+  font-weight:bold;
+  line-height: 30px;
+  letter-spacing: 1px;
+  text-align: left;
+  height: 60%;
+  overflow: scroll;
+  color:rgb(255,102,102);
+  opacity: 0.5;
+}
+
+.backgroundpink {
+  position:absolute;
+  width: 829px;
+  height: 600px;
+  top: 130px;
+  left: 222px;
+  background-color: rgb(255,102,102);
+
+}
+.consent{
+  position:absolute;
+  top:3200px;
+left:400px;
+font-family: 'Hind', sans-serif;
+font-weight: 400;
+width: 470px;
+font-size: 15px;
+line-height:20px;
+opacity: 0.5;
+text-align: center;
+}
+
+.click1 {
+  position:absolute;
+  top:2500px;
+  left:312px;
+  width: 0;
+  height: 0;
+  border-left: 120px solid transparent;
+  border-right: 120px solid transparent;
+  border-bottom: 170px solid rgb(255,102,102);
+}
+  .click2{
+position:absolute;
+  top:2670px;
+  left:312px;
+width: 0;
+  height: 0;
+  border-left: 120px solid transparent;
+  border-right: 120px solid transparent;
+  border-top: 170px solid rgb(255,102,102);
+  }
+
+  .click3{
+position:absolute;
+  top:2500px;
+  left:735px;
+  width: 0;
+  height: 0;
+  border-left: 120px solid transparent;
+  border-right: 120px solid transparent;
+  border-bottom: 170px solid rgb(255,102,102);
+  }
+
+  .click4{
+    position:absolute;
+  top:2670px;
+  left:735px;
+width: 0;
+  height: 0;
+  border-left: 120px solid transparent;
+  border-right: 120px solid transparent;
+  border-top: 170px solid rgb(255,102,102);
+  }
+
+.click5 {
+  position:absolute;
+  top:2802px;
+  left:538px;
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 170px solid rgb(255,102,102);
+}
+
+.click6 {
+  position:absolute;
+  top:2972px;
+  left:538px;
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-top: 170px solid rgb(255,102,102);
+  }
+
+
+
+.effects{
+  position:absolute;
+  top:2650px;
+  left:369px;
+  font-family: 'Hind', sans-serif;
+font-weight: bold;
+width: 400px;
+font-size: 30px;
+color:rgb(255,255,255);
+}
+
+.click2:hover {
+  color: black ;
+  background-color: solid white ;
 }
 
 
+.promoting{
+  position:absolute;
+  top:2625px;
+  left:772px;
+  font-family: 'Hind', sans-serif;
+font-weight: bold;
+width: 300px;
+font-size: 29px;
+color:rgb(255,255,255);
+}
 
+
+.needhelp{
+  position:absolute;
+  top:2950px;
+  left:565px;
+  font-family: 'Hind', sans-serif;
+font-weight: bold;
+width: 300px;
+font-size: 29px;
+color:rgb(255,255,255);
+}
+
+.help{
+position:absolute;
+top:130px;
+left:223px;
+opacity:0.4;
+}
+
+.outline {
+  position:absolute;
+  top:300px;
+  left:450px;
+  width: 300px;
+  height:50px;
+    border: 5px solid white;
+    padding: 20px;
+    margin: 25px;
+    
+   
+}
+
+.texthelp{
+
+    position:absolute;
+  top:350px;
+  left:545px;
+  font-family: 'Hind', sans-serif;
+font-weight: bold;
+width: 400px;
+font-size: 39px;
+color:rgb(255,255,255);
+}
+
+
+.bodyhelp{
+  position:absolute;
+  top:465px;
+  left:530px;
+  font-family: 'Hind', sans-serif;
+font-weight: 400;
+width: 250px;
+font-size: 13px;
+color:rgb(255,255,255);
+}
+
+
+.xhelp{
+  position:absolute;
+  top:-319px;
+  left:100px;
+  font-family: 'Hind', sans-serif;
+font-weight: bold;
+width: 250px;
+font-size: 700px;
+color:rgb(255,255,255);
+}
+
+
+.helpnumber{
+  position:absolute;
+  top:640px;
+  left:370px;
+  font-family: 'Hind', sans-serif;
+font-weight: bold;
+width: 900px;
+font-size: 100px;
+color:rgb(255,255,255);
+
+}
 
 
