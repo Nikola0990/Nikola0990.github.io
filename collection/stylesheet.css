@@ -1,7 +1,7 @@
 .circle{
 	position:absolute;
-  top :599px;
-  left:940px;
+  top :520px;
+  left:920px;
   font-family: 'Raleway Dots', cursive;
 font-size: 100px;
 font-weight: 400;
@@ -14,8 +14,8 @@ color: rgb(255,241,0)
 
 .square{
 		position:absolute;
-  top :220px;
-  left:920px;
+  top :150px;
+  left:850px;
   font-family: 'Raleway Dots', cursive;
 font-size: 100px;
 font-weight: 400;
@@ -29,7 +29,7 @@ color: rgb(169,220,221)
 .triangle {
 
 position:absolute;
-  top :430px;
+  top :380px;
   left:100px;
   font-family: 'Raleway Dots', cursive;
 font-size: 100px;
@@ -44,8 +44,8 @@ color: rgb(237,36,102)
 
 .explore{
  position:absolute;
-  top :434px;
-  left:645px;
+  top :391px;
+  left:579px;
   font-family: 'Barlow Semi Condensed', sans-serif;
 font-size: 20px;
 font-weight: 400;
@@ -67,17 +67,17 @@ color: white;
 }
 
 
-.box{
+.boxchange{
 	    position:absolute;
-	    top:422px;
+	    top:380px;
 	    border-radius: 25px;
-	    left:612px;
+	    left:542px;
 		width: 114px;
 		border: 1px solid white;
 		padding: 25px;
 	}
 
-	.box:hover{
+	.boxchange:hover{
 		box-shadow: 0 0 30px #ccc;
 		box-shadow: 0 0 30px #ccc;
 		box-shadow: 0 0 30px #ccc;
@@ -136,7 +136,7 @@ color: rgb(176,224,230)
 }
 
 .triangle2{
-    position:absolute;
+  position:absolute;
 	top:167px;
 	left:125px;
 	width: 0;
@@ -148,7 +148,7 @@ color: rgb(176,224,230)
 	}
 
 .triange2:hover {
-    border-bottom: solid orange;	
+    border-bottom: orange;	
 }
 
 
