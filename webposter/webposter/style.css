@@ -1,56 +1,25 @@
-.date1{
-	position:absolute;
-	top:580px;
-	left:380px;
-	font-family: 'Barlow Semi Condensed', sans-serif;
- font-size: 20px;
- font-weight: 400;
-  color: black;
-}	
+
+
 
 .date2{
 	position:absolute;
-	top:620px;
-	left:390px;
+	top:550px;
+	left:350px;
 	font-family: 'Barlow Semi Condensed', sans-serif;
  font-size: 12px;
+ line-height:12px;
  font-weight: 500;
   color: black;
 }
 
-.details{
-		position:absolute;
-	top:777px;
-	left:380px;
-	font-family: 'Barlow Semi Condensed', sans-serif;
- font-size: 20px;
- font-weight: 400;
-  color: black;
+.gif{
+	position:absolute;
+	left:400px;
 }
 
-.tickets{
-		position:absolute;
-	top:920px;
-	left:380px;
-	font-family: 'Barlow Semi Condensed', sans-serif;
- font-size: 20px;
- font-weight: 400;
-  color: black;
-}
-
-.location{
-		position:absolute;
-	top:820px;
-	left:390px;
-	font-family: 'Barlow Semi Condensed', sans-serif;
- font-size: 12px;
- font-weight: 400;
-line-height:20px;
-  color: black;
-}
 
 .circle {
-	position:absolute;
+position:absolute;
 	top:240px;
 	left:500px;
 	width: 250px;
@@ -61,91 +30,16 @@ line-height:20px;
 	border-radius: 250px;
 
 }
-.gif{
-	position:absolute;
-	top:190px;
-	left:480px;
-}
-
-.line1 {
-	position:absolute;
-	top:180px;
-	left:460px;
-	width: 550px;
-	height: 70px;
-	background: white;
-	
-}
-
-.pink1 {
-	position:absolute;
-	top:350px;
-	left:190px;
-	width: 300px;
-	height: 70px;
-	background: rgb(2014,51,102);
-	
-}
-.pink2 {
-	position:absolute;
-	top:350px;
-	left:590px;
-	width: 300px;
-	height: 70px;
-	background: white;
-	
-}
-
-.pink3 {
-	position:absolute;
-	top:570px;
-	left:590px;
-	width: 300px;
-	height: 70px;
-	background: rgb(2014,51,102);
-	
-}
 
 
-
-
-.line2 {
-	position:absolute;
-	top:350px;
-	left:450px;
-	width: 550px;
-	height: 70px;
-	background: white;
-	
-}	
-
-.line3 {
-	position:absolute;
-	top:570px;
-	left:450px;
-	width: 550px;
-	height: 70px;
-	background: white;
-	
-}	
-
-.line4 {
-	position:absolute;
-	top:770px;
-	left:450px;
-	width: 550px;
-	height: 10px;
-	background: white;
-	
-}
 
 
 .shape1{
 	position:absolute;
-	top:600px;
-	left:280px;
-	width: 100px;
-	height: 100px;
+	top:540px;
+	left:240px;
+	width: 85px;
+	height: 85px;
 	background: black;
 	border-radius: 70px;
 	border-radius: 70px;
@@ -164,10 +58,10 @@ line-height:20px;
 
 .shape2{
 	position:absolute;
-	top:770px;
-	left:280px;
-	width: 100px;
-	height: 100px;
+	top:670px;
+	left:240px;
+	width: 85px;
+	height: 85px;
 	background: black;
 	border-radius: 70px;
 	border-radius: 70px;
@@ -176,10 +70,10 @@ line-height:20px;
 
 .shape3{
 	position:absolute;
-	top:920px;
-	left:280px;
-	width: 100px;
-	height: 100px;
+	top:820px;
+	left:240px;
+	width: 85px;
+	height: 85px;
 	background: black;
 	border-radius: 70px;
 	border-radius: 70px;
@@ -189,130 +83,156 @@ line-height:20px;
 
 .ny{
 	position:absolute;
-	top:80px;
-	left:190px;
-	font-family: 'Barlow Semi Condensed', sans-serif;
- font-size: 50px;
- font-weight: 800;
+	top:250px;
+	left:80px;
+	font-family: 'Merriweather', serif;
+ font-size: 80px;
+ font-weight: 900;
   color: black;
 }
 
 .fash{
 	position:absolute;
-	top:130px;
-	left:285px;
+	top:340px;
+	left:269px;
 	font-family: 'Barlow Semi Condensed', sans-serif;
- font-size: 40px;
+ font-size: 50px;
  font-weight: 500;
-  color: black;
+  color: rgb(255,204,51);
 }
 
 .week{
 	position:absolute;
-	top:170px;
+	top:390px;
 	left:340px;
 	font-family: 'Barlow Semi Condensed', sans-serif;
- font-size: 40px;
+ font-size: 50px;
  font-weight: 500;
   color: black;
 }
 .link {
 	position:absolute;
-	top:862px;
-	left:389px;
+	top:740px;
+	left:340px;
 	font-family: 'Barlow Semi Condensed', sans-serif;
  font-size: 12px;
  font-weight: 500;
-  background-color:rbg(204,204,153);
+ color:black;
 }
 
 .link2 {
 	position:absolute;
-	top:962px;
-	left:389px;
+	top:832px;
+	left:340px;
 	font-family: 'Barlow Semi Condensed', sans-serif;
  font-size: 12px;
  font-weight: 500;
-  background:rbg(204,204,153);
+  color: black;
 }
+
+.boxchange{
+	    position:absolute;
+	    top:820px;
+	    left:300px;
+	    height:10px;
+		width: 114px;
+		border: 12px solid rgb(255,204,51);
+		
+	}
+
+	.boxchange:hover{
+		box-shadow: 0 0 30px #ccc;
+		box-shadow: 0 0 30px #ccc;
+		box-shadow: 0 0 30px #ccc;
+	}
+
+
+.boxchange2{
+	    position:absolute;
+	    top:730px;
+	    left:300px;
+	    height:10px;
+		width: 114px;
+		border: 12px solid rgb(255,204,51);
+		
+	}
+
+	.boxchange2:hover{
+		box-shadow: 0 0 30px #ccc;
+		box-shadow: 0 0 30px #ccc;
+		box-shadow: 0 0 30px #ccc;
+	}
+
+.boxchange3{
+	    position:absolute;
+	    top:590px;
+	    left:300px;
+	    height:10px;
+		width: 114px;
+		border: 12px solid rgb(255,204,51);
+		
+	}
+
+	.boxchange3:hover{
+		box-shadow: 0 0 30px #ccc;
+		box-shadow: 0 0 30px #ccc;
+		box-shadow: 0 0 30px #ccc;
+	}
+
 
 .link3 {
 	position:absolute;
-	top:662px;
-	left:389px;
+	top:600px;
+	left:350px;
 	font-family: 'Barlow Semi Condensed', sans-serif;
  font-size: 12px;
  font-weight: 500;
-  background:rbg(204,204,153);
-}
-
-.base{
-	position:absolute;
+  color:black;
 }
 
 
-
-.righttriangle {
+.blackbox{
 	position:absolute;
-	top:670px;
-	left:500px;
-	width: 0;
-	height: 0;
-	border-bottom: 100px solid white;
-	border-left: 480px solid transparent;
+	top:990px;
+	left:0px;
+	width: 1280px;
+	height: 85px;
+	background: black;
 }
 
-.designers{
+.ystripe1{
 	position:absolute;
-	top:1150px;
-	left:297px;
-	font-family: 'Barlow Semi Condensed', sans-serif;
-    font-size: 50px;
-    font-weight: 800;
-    color: rgb(2014,51,102);
+	top:0px;
+	left:100px;
+	width: 20px;
+	height: 200px;
+	background:rgb(255,204,51) ;
 }
 
-.a{
+.ystripe2{
 	position:absolute;
-	top:1350px;
-	left:297px;
-	font-family: 'Barlow Semi Condensed', sans-serif;
-    font-size: 50px;
-    font-weight: 800;
-    color: rgb(2014,51,102);
+	top:0px;
+	left:130px;
+	width: 20px;
+	height: 200px;
+	background:rgb(255,204,51) ;
+}
+.bstripe{
+	position:absolute;
+	top:0px;
+	left:160px;
+	width: 20px;
+	height: 200px;
+	background:rgb(153,153,204) ;
 }
 
-.b{
+.ystripe3{
 	position:absolute;
-	top:1570px;
-	left:297px;
-	font-family: 'Barlow Semi Condensed', sans-serif;
-    font-size: 50px;
-    font-weight: 800;
-    color: rgb(2014,51,102);
-}
-
-.ades{
-	position:absolute;
-	top:1430px;
-	left:297px;
-	font-family: 'Barlow Semi Condensed', sans-serif;
-    font-size: 15px;
-    font-weight: 400;
-    color: black;
-    line-height:20px;
-}
-
-
-.bdes{
-	position:absolute;
-	top:1630px;
-	left:297px;
-	font-family: 'Barlow Semi Condensed', sans-serif;
-    font-size: 15px;
-    font-weight: 400;
-    color: black;
-    line-height:20px;
+	top:0px;
+	left:190px;
+	width: 20px;
+	height: 200px;
+	background:rgb(255,204,51) ;
 }
 
 
