@@ -1,0 +1,50 @@
+body{
+	background-color:rgb(80,200,250);
+animation-duration:1s;
+animation-name:sky;
+animation-iteration-count:1;
+animation-fill-mode:forwards;
+}
+
+.sun{
+	
+	background-color:rgb(220,20,45);
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	margin-top:0px;
+	animation-name:sunset;
+	animation-duration:1s;
+	animation-iteration-count:1;
+	animation-fill-mode: forwards;
+	animation-delay:3s;
+
+}
+
+@keyframes sunset{
+	0% {
+		margin-top:0;
+background-color:rgb(220,20,45);
+	}
+	100%{
+		margin-top:100vh;
+		background-color:rgb(22,80,120);
+	}
+}
+
+@keyframes sky{
+	0% {
+		margin-top:0;
+background-color:rgb(80,200,250);
+	}
+	100%{
+		margin-top:100vh;
+		background-color:rgb(0,0,139);
+	}
+}
+
+
+
+
+
+
