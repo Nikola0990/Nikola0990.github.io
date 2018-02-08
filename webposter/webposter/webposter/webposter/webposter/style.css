@@ -1,0 +1,497 @@
+
+
+
+.date2{
+	position:absolute;
+	top:83vh;
+	left:28vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 1vw;
+ line-height:3vh;
+ font-weight: 500;
+  color: black;
+}
+
+.date3{
+	position:absolute;
+	top:103vh;
+	left:28vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 1vw;
+ line-height:3vh;
+ font-weight: 500;
+  color: black;
+}
+
+
+.gif{
+	position: absolute;
+    background-image: url("imagegif.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-position: center center;
+	left:30vw;
+	top:0;
+	z-index:-1;
+	width: 75vw;
+  height: 75vh;
+}
+
+
+.circle {
+position:absolute;
+	top:240px;
+	left:500px;
+	width: 250px;
+	height: 250px;
+	background: black;
+	border-radius: 250px;
+	border-radius: 250px;
+	border-radius: 250px;
+
+}
+
+
+
+
+.shape1{
+	position:absolute;
+	top:82vh;
+	left:19vw;
+	width: 7vw;
+	height: 14vh;
+	background: black;
+	border-radius: 14vw;
+	border-radius: 14vw;
+	border-radius: 14vw;
+}
+
+.date{
+	position:absolute;
+	top:600px;
+	left:350px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 20px;
+ font-weight: 400;
+  color: black;
+}
+
+.shape2{
+	position:absolute;
+	top:103vh;
+	left:19vw;
+	width: 7vw;
+	height: 14vh;
+	background: black;
+	border-radius: 70px;
+	border-radius: 70px;
+	border-radius: 70px;
+}
+
+.shape3{
+	position:absolute;
+	top:123vh;
+	left:19vw;
+	width: 7vw;
+	height: 14vh;
+	background: black;
+	border-radius: 7vw;
+	border-radius: 7vw;
+	border-radius: 7vw;
+}
+
+
+.ny{
+
+	position:absolute;
+	top:38vh;
+	left:7vw;
+	font-family: 'Merriweather', serif;
+ font-size: 6vw;
+ font-weight: 900;
+  color: black;
+}
+
+.fash{
+	position:absolute;
+	top:52vh;
+	left:23vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 4vw;
+ font-weight: 500;
+  color: rgb(255,204,51);
+}
+
+.week{
+	position:absolute;
+	top:60vh;
+	left:28.5vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 4vw;
+ font-weight: 500;
+  color: black;
+}
+.link {
+	position:absolute;
+	top:111.5vh;
+	left:26vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: .90vw;
+ font-weight: 500;
+ color:black;
+}
+
+.link2 {
+	position:absolute;
+	top:127.7vh;
+	left:27vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 1vw;
+ font-weight: 500;
+  color: black;
+}
+
+.boxchange{
+	    position:absolute;
+	    top:126vh;
+	    left:23vw;
+	    height:2vh;
+		width: 12vw;
+		border: 1vw solid rgb(255,204,51);
+		
+	}
+
+	.boxchange:hover{
+		box-shadow: 0 0 10vw #ccc;
+		box-shadow: 0 0 10vw #ccc;
+		box-shadow: 0 0 10vw #ccc;
+	}
+
+
+.boxchange2{
+	    position:absolute;
+	    top:109.5vh;
+	    left:23vw;
+	    height:2vh;
+		width: 12vw;
+		border: 1vw solid rgb(255,204,51);
+		
+	}
+
+	.boxchange2:hover{
+		box-shadow: 0 0 10vw #ccc;
+		box-shadow: 0 0 10vw #ccc;
+		box-shadow: 0 0 10vw #ccc;
+	}
+
+.boxchange3{
+	    position:absolute;
+	    top:88.5vh;
+	    left:23vw;
+	    height:2vh;
+		width: 12vw;
+		border: 1vw solid rgb(255,204,51);
+		
+	}
+
+	.boxchange3:hover{
+		box-shadow: 0 0 10px #ccc;
+		box-shadow: 0 0 10px #ccc;
+		box-shadow: 0 0 10px #ccc;
+	}
+
+
+.link3 {
+	position:absolute;
+	top:90.5vh;
+	left:26vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 1vw;
+ font-weight: 500;
+  color:black;
+}
+
+
+.blackbox{
+	position:absolute;
+	z-index:-1;
+	top:150vh;
+	left:0vw;
+	width: 110vw;
+	height: 15vh;
+	background: black;
+}
+
+.ystripe1{
+	position:absolute;
+	top:0vh;
+	left:7vw;
+	width: 2.5vw;
+	height: 30vh;
+	background:rgb(255,204,51) ;
+}
+
+.ystripe2{
+	position:absolute;
+	top:0vh;
+	left:11vw;
+	width: 2.5vw;
+	height: 30vh;
+	background:rgb(255,204,51) ;
+}
+
+
+.ystripe3{
+	position:absolute;
+	top:0vh;
+	left:15vw;
+	width: 2.5vw;
+	height: 30vh;
+	background:rgb(255,204,51) ;
+}
+
+@media(max-width: 600px) {  /* Any window smaller than this px width gets the following CSS rules */
+  /* Rules go here */
+
+  .gif{
+	position: absolute;
+    background-image: url("imagegif.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-position: center center;
+	left:10vw;
+	top:0;
+	z-index:-1;
+	width: 110vw;
+  height: 75vh;
+}
+
+@media(max-width: 550px) {  /* Any window smaller than this px width gets the following CSS rules */
+  /* Rules go here */
+  
+
+
+  .gif{
+	position: absolute;
+    background-image: url("imagegif.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-position: center center;
+	left:10vw;
+	top:0;
+	z-index:-1;
+	width: 130vw;
+  height: 95vh;
+}
+
+
+.shape1{
+	position:absolute;
+	top:110vh;
+	left:22vw;
+	width: 27vw;
+	height: 21vh;
+	background: black;
+	border-radius: 70px;
+	border-radius: 70px;
+	border-radius: 70px;
+}
+
+.shape2{
+	position:absolute;
+	top:170vh;
+	left:22vw;
+	width: 27vw;
+	height: 21vh;
+	background: black;
+	border-radius: 70px;
+	border-radius: 70px;
+	border-radius: 70px;
+}
+
+.shape3{
+	position:absolute;
+	top:140vh;
+	left:22vw;
+	width: 27vw;
+	height: 21vh;
+	background: black;
+	border-radius: 70px;
+	border-radius: 70px;
+	border-radius: 70px;
+}
+.ny{
+	display:none;
+
+}
+
+.bigny{
+		position:absolute;
+	top:50vh;
+	left:7vw;
+	font-family: 'Merriweather', serif;
+ font-size: 27vw;
+ font-weight: 900;
+  color: black;
+}
+
+.ystripe1{
+	position:absolute;
+	top:0vh;
+	left:7vw;
+	width: 2.5vw;
+	height: 50vh;
+	background:rgb(255,204,51) ;
+}
+
+.ystripe2{
+	position:absolute;
+	top:0vh;
+	left:11vw;
+	width: 2.5vw;
+	height: 50vh;
+	background:rgb(255,204,51) ;
+}
+
+
+.ystripe3{
+	position:absolute;
+	top:0vh;
+	left:15vw;
+	width: 2.5vw;
+	height: 50vh;
+	background:rgb(255,204,51) ;
+}
+.fash{
+	position:absolute;
+	top:68vh;
+	left:15vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 7vw;
+ font-weight: 500;
+  color: rgb(255,204,51);
+}
+
+.week{
+	position:absolute;
+	top:72vh;
+	left:24vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 7vw;
+ font-weight: 500;
+  color: black;
+}
+
+}
+
+.blackbox{
+	position:absolute;
+	z-index:-1;
+	top:97vh;
+	left:0vw;
+	width: 140vw;
+	height: 10vh;
+	background: black;
+}
+
+.boxchange{
+	    position:absolute;
+	    top:176vh;
+	    left:60vw;
+	    height:5vh;
+		width: 30vw;
+		border: 1vw solid rgb(255,204,51);
+		
+	}
+
+	.boxchange:hover{
+		box-shadow: 0 0 10vw #ccc;
+		box-shadow: 0 0 10vw #ccc;
+		box-shadow: 0 0 10vw #ccc;
+	}
+
+.link2 {
+	position:absolute;
+	top:178vh;
+	left:63vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 3vw;
+ font-weight: 500;
+  color: black;
+}
+
+.link {
+	position:absolute;
+	top:150.5vh;
+	left:62vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 3vw;
+ font-weight: 500;
+ color:black;
+}
+
+
+.link3 {
+	position:absolute;
+	top:119.5vh;
+	left:63vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 3vw;
+ font-weight: 500;
+  color:black;
+}
+
+.boxchange2{
+	    position:absolute;
+	    top:148.5vh;
+	    left:60vw;
+	    height:5vh;
+		width: 32vw;
+		border: 1vw solid rgb(255,204,51);
+		
+	}
+
+	.boxchange2:hover{
+		box-shadow: 0 0 10vw #ccc;
+		box-shadow: 0 0 10vw #ccc;
+		box-shadow: 0 0 10vw #ccc;
+	}
+
+.boxchange3{
+	    position:absolute;
+	    top:117.5vh;
+	    left:60vw;
+	    height:5vh;
+		width: 32vw;
+		border: 1vw solid rgb(255,204,51);
+		
+	}
+
+	.boxchange3:hover{
+		box-shadow: 0 0 10px #ccc;
+		box-shadow: 0 0 10px #ccc;
+		box-shadow: 0 0 10px #ccc;
+	}
+
+.date2{
+	position:absolute;
+	top:80vh;
+	left:25vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 3.2vw;
+ line-height:3vh;
+ font-weight: 500;
+  color: black;
+}
+
+.date3{
+	position:absolute;
+	top:87vh;
+	left:25vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 3.2vw;
+ line-height:3vh;
+ font-weight: 500;
+  color: black;
+}
+
