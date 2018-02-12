@@ -24,7 +24,7 @@
 }
 
 .price{
-		position:absolute;
+	position:absolute;
 	top:122.5vh;
 	left:28vw;
 	font-family: 'Barlow Semi Condensed', sans-serif;
@@ -596,16 +596,7 @@ position:absolute;
   color: black;
 }
 
-.price{
-	position:absolute;
-	top:90vh;
-	left:21vw;
-	font-family: 'Barlow Semi Condensed', sans-serif;
- font-size: 2.5vw;
- line-height:2vh;
- font-weight: 500;
-  color: rgb(170,170,170);
-}
+
 
 .whitebox{
 position:absolute;
@@ -703,6 +694,15 @@ position:absolute;
   color: rgb(150,150,150);
 }
 
-
+.price{
+	position:absolute;
+	top:90vh;
+	left:21vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 2.5vw;
+ line-height:2vh;
+ font-weight: 500;
+  color: rgb(170,170,170);
+}
 
 
