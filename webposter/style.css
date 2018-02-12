@@ -23,6 +23,17 @@
   color: black;
 }
 
+.price{
+		position:absolute;
+	top:122.5vh;
+	left:28vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 1vw;
+ line-height:3vh;
+ font-weight: 500;
+  color: black;
+}
+
 
 .gif{
 	position: absolute;
@@ -146,7 +157,7 @@ position:absolute;
 
 .link2 {
 	position:absolute;
-	top:127.7vh;
+	top:130.8vh;
 	left:27vw;
 	font-family: 'Barlow Semi Condensed', sans-serif;
  font-size: 1vw;
@@ -156,7 +167,7 @@ position:absolute;
 
 .boxchange{
 	    position:absolute;
-	    top:126vh;
+	    top:129vh;
 	    left:23vw;
 	    height:2vh;
 		width: 12vw;
@@ -376,7 +387,7 @@ position:absolute;
 
 .shape1{
 	position:absolute;
-	top:110vh;
+	top:112vh;
 	left:13vw;
 	width: 27vw;
 	height: 21vh;
@@ -400,7 +411,7 @@ position:absolute;
 
 .shape3{
 	position:absolute;
-	top:140vh;
+	top:142vh;
 	left:13vw;
 	width: 27vw;
 	height: 21vh;
@@ -486,7 +497,7 @@ position:absolute;
 
 .boxchange{
 	    position:absolute;
-	    top:176vh;
+	    top:177vh;
 	    left:50vw;
 	    height:5vh;
 		width: 30vw;
@@ -502,7 +513,7 @@ position:absolute;
 
 .link2 {
 	position:absolute;
-	top:178vh;
+	top:179vh;
 	left:53vw;
 	font-family: 'Barlow Semi Condensed', sans-serif;
  font-size: 3vw;
@@ -565,10 +576,10 @@ position:absolute;
 
 .date2{
 	position:absolute;
-	top:75vh;
+	top:74vh;
 	left:21vw;
 	font-family: 'Barlow Semi Condensed', sans-serif;
- font-size: 3.2vw;
+ font-size: 3.1vw;
  line-height:3vh;
  font-weight: 500;
   color: black;
@@ -576,13 +587,24 @@ position:absolute;
 
 .date3{
 	position:absolute;
-	top:83vh;
+	top:82vh;
 	left:21vw;
 	font-family: 'Barlow Semi Condensed', sans-serif;
- font-size: 3.2vw;
+ font-size: 3.1vw;
  line-height:3vh;
  font-weight: 500;
   color: black;
+}
+
+.price{
+		position:absolute;
+	top:90vh;
+	left:21vw;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+ font-size: 2.5vw;
+ line-height:2vh;
+ font-weight: 500;
+  color: rgb(170,170,170);
 }
 
 .whitebox{
@@ -629,10 +651,10 @@ position:absolute;
 .blackborder{
 	position:absolute;
 	z-index:-1;
-	top:199vh;
+	top:202vh;
 	left:0vw;
 	width: 100vw;
-	height: 10vh;
+	height: 9vh;
 	background: black;
 }
 
@@ -680,5 +702,7 @@ position:absolute;
  font-weight: 500;
   color: rgb(150,150,150);
 }
+
+
 
 
