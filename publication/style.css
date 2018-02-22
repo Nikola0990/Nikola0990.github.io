@@ -1,0 +1,140 @@
+html, body {
+  background: url(back.gif) no-repeat center center fixed;
+  margin: 7vh;
+  padding: 0;
+}
+
+.divider4{
+  position:absolute;
+  top:2920px;
+  left:0vw;
+  width:90%;
+  height: 220px;
+  background:rgb(255,51,51); 
+  opacity:0.9;
+}
+
+.divider3{
+  position:absolute;
+  top:2280px;
+  left:10vw;
+  width:100%;
+  height: 270px;
+  background:rgb(255,51,51); 
+  opacity:0.9;
+}
+
+.divider2{
+  position:absolute;
+  top:1070px;
+  left:10vw;
+  width:100%;
+  height: 270px;
+  background:rgb(255,51,51); 
+  opacity:0.9;
+}
+
+
+
+.divider{
+  position:absolute;
+  left:0;
+  width: 100%;
+  height: 500px;
+  background: rgb(255,51,51);
+}
+
+.pointer{
+  position:absolute;
+  top:570px;
+  width: 0;
+  height: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-top: 50px solid rgb(255,51,51);
+}
+img {
+  position:absolute;
+  transform: rotate(90deg);
+transition: transform .8s ease-in-out;
+          transition:transform .8s ease-in-out;
+  
+  width: 100%;
+  margin-top: 17px;
+  margin-bottom: 23px;
+}
+img:hover {
+  transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+
+body {
+  width: 80vw;
+  margin-left: 10vw;
+}
+
+
+
+ h1 {
+  animation: 2s slide-down;
+  margin-top:0%;
+  position:relative;
+  font-family: 'Teko', sans-serif;
+  font-weight: 500;
+  font-size: 20vw;
+  margin-top: 10px;
+  margin-bottom: 23px;
+  color:white;
+}
+
+
+@keyframes slide-down {
+  from {
+    margin-top: -100%;
+    height: 300%; 
+  }
+
+  to {
+    margin-top: 0%;
+    height: 100%;
+  }
+}
+
+
+
+h2 {
+  font-family: 'Teko', sans-serif;
+  color:rgb(255,51,51);
+  margin-top: 0;
+  font-weight: 300;
+  margin-bottom: 23px;
+}
+
+p {
+  font-family: 'News Cycle', sans-serif;
+  font-size: 15px;
+  font-weight:400;
+  width:65vw;
+  line-height: 23px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.pullquote {
+
+  font-family: 'Teko', sans-serif;
+  width:120px;
+  color: black;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 40px;
+  text-indent: 0;
+  padding-left: 0vw;
+  margin-top: 30px;
+  margin-bottom: 36px;
+}
+
+
+
+
+
