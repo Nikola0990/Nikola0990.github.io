@@ -6,7 +6,7 @@ html, body {
 
 .divider4{
   position:absolute;
-  top:2920px;
+  top:2950px;
   left:0vw;
   width:90%;
   height: 220px;
@@ -16,7 +16,7 @@ html, body {
 
 .divider3{
   position:absolute;
-  top:2280px;
+  top:2299px;
   left:10vw;
   width:100%;
   height: 270px;
@@ -26,7 +26,7 @@ html, body {
 
 .divider2{
   position:absolute;
-  top:1070px;
+  top:1030px;
   left:10vw;
   width:100%;
   height: 270px;
@@ -40,13 +40,13 @@ html, body {
   position:absolute;
   left:0;
   width: 100%;
-  height: 500px;
+  height: 470px;
   background: rgb(255,51,51);
 }
 
 .pointer{
   position:absolute;
-  top:570px;
+  top:530px;
   width: 0;
   height: 0;
   border-left: 25px solid transparent;
@@ -56,17 +56,11 @@ html, body {
 img {
   position:absolute;
   transform: rotate(90deg);
-transition: transform .8s ease-in-out;
-          transition:transform .8s ease-in-out;
-  
   width: 100%;
-  margin-top: 17px;
+  margin-top: 100px;
   margin-bottom: 23px;
 }
-img:hover {
-  transform: rotate(360deg);
-  transform: rotate(360deg);
-}
+
 
 body {
   width: 80vw;
@@ -86,6 +80,7 @@ body {
   margin-bottom: 23px;
   color:white;
 }
+
 
 
 @keyframes slide-down {
@@ -108,6 +103,17 @@ h2 {
   margin-top: 0;
   font-weight: 300;
   margin-bottom: 23px;
+}
+
+ h3 {
+  margin-top:0%;
+  font-family: 'News Cycle', sans-serif;
+  font-weight: 200;
+  width:65vw;
+  font-size:14px;
+  margin-top: 10px;
+  margin-bottom: 23px;
+ 
 }
 
 p {
