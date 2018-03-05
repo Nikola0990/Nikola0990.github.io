@@ -81,7 +81,8 @@ background-color:rgb(213, 181, 57);
 
 .link1{
 	position:absolute;
-	top:770px;
+	z-index:1;
+	top:800px;
 	left:15vw;
 	width:50%;
 }
@@ -119,12 +120,9 @@ width:67.5vw;
 left: 15vw;
 height: 279px;
 background-color: white;
-opacity:0;
+opacity:0.7;
 }
 
-.opacity1:hover{
-opacity:0.8;
-}
 
 .opacity2{
 	position:absolute;
@@ -133,17 +131,9 @@ width:67.5vw;
 left: 15vw;
 height: 279px;
 background-color: white;
-opacity:0;
+opacity:0.7;
 }
-.opacity2:hover{
-	position:absolute;
-top: 1050px;
-width:67.5vw;
-left: 15vw;
-height: 279px;
-background-color: white;
-opacity:0.8;
-}
+
 
 .opacity3{
 	position:absolute;
@@ -152,11 +142,9 @@ width:67.5vw;
 left: 15vw;
 height: 279px;
 background-color: white;
-opacity:0;
+opacity:0.7;
 }
-.opacity3:hover{
-opacity:0.8;
-}
+
 
 .opacity4{
 	position:absolute;
@@ -165,11 +153,9 @@ width:67.5vw;
 left: 15vw;
 height: 279px;
 background-color: white;
-opacity:0;
+opacity:0.7;
 }
-.opacity4:hover{
-opacity:0.8;
-}
+
 
 .opacity5{
 	position:absolute;
@@ -178,11 +164,9 @@ width:67.5vw;
 left: 15vw;
 height: 289px;
 background-color: white;
-opacity:0;
+opacity:0.7;
 }
-.opacity5:hover{
-opacity:0.8;
-}
+
 
 
 .heading1{
