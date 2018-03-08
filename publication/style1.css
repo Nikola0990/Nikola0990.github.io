@@ -164,7 +164,7 @@ color:rgb(213, 181, 00);
 .button4 {
 	position:absolute;
 	left:38vw;
-	top:1414px;
+	top:1409px;
     background:rgb(255,51,51); 
     border: none;
     color: white;
@@ -182,7 +182,7 @@ color:rgb(213, 181, 00);
 .button5 {
 	position:absolute;
 	left:38vw;
-	top:1592px;
+	top:1587px;
     background:rgb(255,51,51); 
     border: none;
     color: white;
@@ -215,7 +215,7 @@ color:rgb(213, 181, 00);
 
 
 .page2{
-	top:650px;
+	top:642px;
 	text-align:center ;
   position:absolute;
   font-family: 'News+Cycle', sans-serif;
@@ -232,7 +232,7 @@ color:rgb(213, 181, 00);
 }
 
 .page3{
-	top:837px;
+	top:832px;
 	text-align:center ;
   position:absolute;
   font-family: 'News+Cycle', sans-serif;
