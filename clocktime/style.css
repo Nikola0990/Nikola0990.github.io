@@ -1,0 +1,134 @@
+body { 
+  margin: 0;
+  padding: 0;
+  background-color: rgb(249,173,147);
+}
+
+.hourglass{
+  z-index:1;
+  position:absolute;
+  left:16vw;
+  top:5vh;
+  animation-name: animationB;
+  animation-duration: 60s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;  
+
+  content:url(hour.gif);
+  transform: rotate(360deg);
+  transform-origin: center;
+}
+
+@keyframes animationB {
+  0% {
+
+    transform: rotate(0deg);
+  }
+  
+ 
+  100% {
+    
+    transform: rotate(360deg);
+  }
+}
+.second3 {
+  position: absolute;
+  z-index:0;
+ top: 20vw;
+  left: 9vw;
+  width: 12vw;
+  height: 12vw;
+  border-radius:50%;
+  background-color:rgb(249,173,147) ;
+  
+ 
+}
+
+.minute {
+  z-index:0;
+  position: absolute;
+  top: -20vw;
+  left: 0vw;
+  width: 100vw;
+  height: 100vw; 
+  margin-bottom:0px;
+  background-image: url(min1.gif);
+  background-size: contain;
+  background-position: center center;  
+  background-repeat: no-repeat;  
+  animation-name: swapImage;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;  
+}
+
+@keyframes swapImage {
+0% {
+    background-image: url(min1.gif);
+  }
+  10% {
+    background-image: url(min1.gif);
+  }
+  20% {
+    background-image: url(min2.gif);
+  }  
+  30% {
+    background-image: url(min3.gif);
+  }  
+  40% {
+    background-image: url(min4.gif);
+  }  
+  50% {
+    background-image: url(min5.gif);
+  }
+  60% {
+    background-image: url(min6.gif);
+  }
+  70% {
+    background-image: url(min7.gif);
+  }  
+  80% {
+    background-image: url(min8.gif);
+  }  
+  90% {
+    background-image: url(min9.gif);
+  }  
+  100% {
+    background-image: url(min10.gif);
+  }    
+}
+.second2 {
+  position: absolute;
+ top: 20vw;
+  left: 14vw;
+  width: 12vw;
+  height: 12vw;
+  border-radius:50%;
+  animation-name: animationA;
+  animation-duration: .6s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+ 
+}
+.second {
+  position: absolute;
+  z-index:0;
+ top: 20vw;
+  left: 70vw;
+  width: 12vw;
+  height: 12vw;
+  border-radius:50%;
+  animation-name: animationA;
+  animation-duration: .6s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes animationA {
+  0% {
+    background-color: rgb(251,216,52);
+  }
+  
+    100% {
+    background-color:white ;
+  }
+}
