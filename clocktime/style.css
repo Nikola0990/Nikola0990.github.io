@@ -2,12 +2,13 @@ body {
   margin: 0;
   padding: 0;
   background-color: rgb(249,173,147);
+  height:500px;
 }
 
 .hourglass{
   z-index:1;
   position:absolute;
-  left:16vw;
+  left:15.9vw;
   top:5vh;
   animation-name: animationB;
   animation-duration: 60s;
@@ -35,38 +36,37 @@ body {
   position: absolute;
   z-index:0;
  top: 20vw;
-  left: 9vw;
+  left: 4vw;
   width: 12vw;
   height: 12vw;
   border-radius:50%;
-  background-color:rgb(249,173,147) ;
-  
- 
+  background-color:rgb(249,173,147);
 }
 
 .minute {
   z-index:0;
   position: absolute;
-  top: -20vw;
+  top: -22vw;
   left: 0vw;
   width: 100vw;
   height: 100vw; 
   margin-bottom:0px;
-  background-image: url(min1.gif);
+  background-image: url(0.gif);
   background-size: contain;
   background-position: center center;  
-  background-repeat: no-repeat;  
+ background-:no-repeat; 
   animation-name: swapImage;
-  animation-duration: 6s;
+  animation-duration: 60s;
   animation-iteration-count: infinite;  
 }
 
 @keyframes swapImage {
-0% {
-    background-image: url(min1.gif);
+  0% {
+    background-image: url(0.gif);
   }
+
   10% {
-    background-image: url(min1.gif);
+    background-image: url(minstart.gif);
   }
   20% {
     background-image: url(min2.gif);
@@ -99,12 +99,12 @@ body {
 .second2 {
   position: absolute;
  top: 20vw;
-  left: 14vw;
+  left: 9vw;
   width: 12vw;
   height: 12vw;
   border-radius:50%;
   animation-name: animationA;
-  animation-duration: .6s;
+  animation-duration: .06s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
  
@@ -113,12 +113,12 @@ body {
   position: absolute;
   z-index:0;
  top: 20vw;
-  left: 70vw;
+  left: 80vw;
   width: 12vw;
   height: 12vw;
   border-radius:50%;
   animation-name: animationA;
-  animation-duration: .6s;
+  animation-duration: .06s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 }
@@ -131,4 +131,35 @@ body {
     100% {
     background-color:white ;
   }
+}
+.wakeup{
+  z-index:1;
+  position: absolute;
+  top:0vw;
+  left: 0vw;
+  width: 100vw;
+  height: 100vw;
+  display:none;
+}
+
+.button{
+
+  z-index:1;
+  position: absolute;
+  top:220px;
+  left: 16vw;
+  width: 100vw;
+  height: 100vw;
+  display:none;
+  cursor:pointer;
+}
+
+.alarming{
+  z-index:1;
+  display:block;
+}
+
+.alarming2{
+  z-index:1;
+  display:block;
 }
