@@ -6,7 +6,7 @@ setTimeout (function(){
 
 	$(".wakeup").addClass("alarming");
 	$(".button").addClass("alarming2");
-},10000);
+},5000);
 
 
 $(".wakeup,.button").click(function(){
