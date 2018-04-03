@@ -1,4 +1,46 @@
 
+.english{
+z-index:3;
+position:fixed;
+color:rgb(0,225,218);
+top:22px;
+font-weight:300;
+left:94.5vw;
+letter-spacing:.1vw;
+font-family: 'Hind', sans-serif;
+font-size:14px;
+opacity:0.5;
+
+}
+.english:hover{
+font-weight:700;
+}
+.espanol{
+z-index:3;
+position:fixed;
+color:rgb(0,225,218);
+top:40px;
+font-weight:300;
+left:94.5vw;
+letter-spacing:.1vw;
+font-family: 'Hind', sans-serif;
+font-size:14px;
+opacity:0.5;
+}
+.espanol:hover{
+font-weight:700;
+}
+
+.menu{
+  
+z-index:2;
+position:fixed;
+top:-2px;
+left:92vw;
+width:100vw;
+}
+
+
 .logo{
 	
 z-index:1;
@@ -64,7 +106,7 @@ position:fixed;
 color:rgb(0,225,218);
 top:25px;
 font-weight:300;
-left:50vw;
+left:45vw;
 letter-spacing:.1vw;
 font-family: 'Hind', sans-serif;
 font-size:17px;
@@ -80,7 +122,7 @@ z-index:1;
 position:fixed;
 color:rgb(0,225,218);
 top:25px;
-left:59vw;
+left:55.5vw;
 letter-spacing:.1vw;
 font-family: 'Hind', sans-serif;
 font-size:17px;
@@ -97,7 +139,7 @@ position:fixed;
 color:rgb(0,225,218);
 top:25px;
 letter-spacing:.1vw;
-left:70vw;
+left:67vw;
 font-family: 'Hind', sans-serif;
 font-size:17px;
 opacity:0.5;
@@ -114,7 +156,7 @@ position:fixed;
 color:rgb(0,225,218);
 top:25px;
 letter-spacing:.1vw;
-left:82vw;
+left:80vw;
 font-family: 'Hind', sans-serif;
 font-size:17px;
 opacity:0.5;
@@ -179,7 +221,7 @@ width:100vw;
 
 .mhover1{
 	position:absolute;
-	z-index:1;
+	z-index:0;
 	left:53.6vw;
 	top:810px;
 	width:8vw;
@@ -194,7 +236,7 @@ width:100vw;
 
   .rhover5{
   position:absolute;
-  z-index:1;
+  z-index:0;
   left:53.6vw;
   top:950px;
   width:8vw;
@@ -208,7 +250,7 @@ width:100vw;
   }
     .ahover6{
   position:absolute;
-  z-index:1;
+  z-index:0;
   left:53.6vw;
   top:680px;
   width:8vw;
@@ -223,7 +265,7 @@ width:100vw;
 
 .shover2{
   position:absolute;
-  z-index:1;
+  z-index:0;
   left:14vw;
   top:804px;
   width:8.6vw;
@@ -238,7 +280,7 @@ width:100vw;
 
 .lhover3{
   position:absolute;
-  z-index:1;
+  z-index:0;
   left:14vw;
   top:937px;
   width:8.6vw;
@@ -252,7 +294,7 @@ width:100vw;
   }
   .chover4{
   position:absolute;
-  z-index:1;
+  z-index:0;
   left:14vw;
   top:675px;
   width:8.6vw;
