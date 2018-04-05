@@ -104,7 +104,7 @@ body {
   height: 12vw;
   border-radius:50%;
   animation-name: animationA;
-  animation-duration: .06s;
+  animation-duration: .6s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
  
@@ -118,7 +118,7 @@ body {
   height: 12vw;
   border-radius:50%;
   animation-name: animationA;
-  animation-duration: .06s;
+  animation-duration: .6s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 }
